@@ -1,4 +1,4 @@
-name: Generate Pac-Man Contribution Graph
+name: Generate Pacman Contribution Graph
 
 on:
   schedule:
@@ -16,16 +16,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Pac-Man animation
-        uses: Platane/snk@v3
+      - name: Generate Pacman animation
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Vishokbadri-K
-          outputs: |
-            dist/pacman-contribution-graph.svg
 
-      - name: Deploy Pac-Man animation
+      - name: Push Pacman to output branch
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
+          publish_dir: ./output
           publish_branch: output
+          user_name: "Vishokbadri-K"

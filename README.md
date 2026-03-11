@@ -72,7 +72,7 @@
 
 ---
 
-# 👾 Pac-Man Contribution Game
+# 👾 Pac-Man Contribution
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Vishokbadri-K/Vishokbadri-K/output/pacman-contribution-graph.svg">
