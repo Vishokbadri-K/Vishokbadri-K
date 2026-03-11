@@ -16,20 +16,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Pac-Man graph
+      - name: Generate Pac-Man animation
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Vishokbadri-K
-          output_file: pacman-contribution-graph.svg
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Move generated file
-        run: |
-          mkdir output
-          mv pacman-contribution-graph.svg output/
-
-      - name: Deploy to output branch
+      - name: Deploy Pac-Man to output branch
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./output
+          publish_dir: ./dist
           publish_branch: output
