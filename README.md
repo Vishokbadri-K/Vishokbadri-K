@@ -10,7 +10,9 @@
 
 # 👨‍💻 About Me
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<div>
+  <img align="right" height="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding gif"/>
+</div>
 
 🎓 **B.Tech Computer Science Engineering**
 
