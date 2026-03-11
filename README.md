@@ -11,7 +11,7 @@
 # 👨‍💻 About Me
 
 <div>
-  <img align="right" height="260" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding workspace gif"/>
+  <img align="right" height="260" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" alt="Coding workspace gif"/>
 </div>
 
 🎓 **B.Tech Computer Science Engineering**
