@@ -48,9 +48,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vishokbadri-K&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishokbadri-K&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -59,7 +59,7 @@
 # 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Vishokbadri-K&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -67,7 +67,7 @@
 # 📈 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishokbadri-K&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -75,7 +75,7 @@
 # 👾 Pac-Man Contribution Game
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg">
+<img src="https://raw.githubusercontent.com/Vishokbadri-K/Vishokbadri-K/output/pacman-contribution-graph.svg">
 </p>
 
 ---
