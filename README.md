@@ -11,7 +11,7 @@
 # 👨‍💻 About Me
 
 <div>
-  <img align="right" height="260" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Programmer workspace"/>
+  <img align="right" height="260" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding workspace gif"/>
 </div>
 
 🎓 **B.Tech Computer Science Engineering**
