@@ -28,3 +28,4 @@ jobs:
           publish_dir: ./output
           publish_branch: output
           user_name: "Vishokbadri-K"
+          user_email: "vishokbadri1913@gmail.com"
