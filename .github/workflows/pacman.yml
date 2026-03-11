@@ -16,7 +16,7 @@ jobs:
       - name: Generate Pac-Man animation
         uses: Platane/snk@v3
         with:
-          github_user_name: YOUR_USERNAME
+          github_user_name: Vishokbadri-K
           outputs: |
             dist/pacman-contribution-graph.svg
 
