@@ -2,6 +2,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=K%20Vishokbadri&fontSize=40&fontAlignY=35&desc=Computer%20Science%20Engineer%20|%20Systems%20Programming%20|%20Backend%20Development&descAlignY=55&animation=fadeIn" />
 </p>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Exploring+Operating+Systems+and+Compilers;Learning+Data+Structures+and+Algorithms;Building+Projects+with+Java+C%2B%2B+and+Python">
+</p>
+
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smileys/Smiling%20Face%20with%20Sunglasses.png" width="35px">
   Hello! I'm <b>K Vishokbadri</b>
