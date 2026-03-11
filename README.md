@@ -90,7 +90,7 @@
 # 👾 Pac-Man Contribution
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Vishokbadri-K/Vishokbadri-K/refs/heads/output/pacman-contribution-graph-dark.svg?token=GHSAT0AAAAAADVXMUJ4LGOP2PEOPBXVOB2Y2NRVS4A">
+<img src="https://raw.githubusercontent.com/Vishokbadri-K/Vishokbadri-K/refs/heads/output/pacman-contribution-graph-dark.svg">
 </p>
 
 ---
