@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=K%20Vishokbadri&fontSize=40&fontAlignY=35&desc=Computer%20Science%20Engineer%20|%20Systems%20Programming%20|%20Backend%20Development&descAlignY=55&animation=fadeIn" />
+</p>
+
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smileys/Smiling%20Face%20with%20Sunglasses.png" width="35px">
   Hello! I'm <b>K Vishokbadri</b>
