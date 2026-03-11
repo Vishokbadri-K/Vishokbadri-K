@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=Vishokbadri-K&color=blueviolet&style=flat"/>
 </p>
 
 <p align="center">
