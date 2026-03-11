@@ -6,15 +6,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Exploring+Operating+Systems+and+Compilers;Learning+Data+Structures+and+Algorithms;Building+Projects+with+Java+C%2B%2B+and+Python">
 </p>
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smileys/Smiling%20Face%20with%20Sunglasses.png" width="35px">
-  Hello! I'm <b>K Vishokbadri</b>
-</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vishokbadri-K&color=blueviolet&style=flat"/>
-</p>
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Exploring+Operating+Systems+and+Compilers;Learning+Data+Structures+and+Algorithms;Building+Projects+with+Java+C%2B%2B+and+Python;Passionate+about+System+Programming">
 </p>
