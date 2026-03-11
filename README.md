@@ -1,16 +1,112 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smileys/Smiling%20Face%20with%20Sunglasses.png" width="35px">
+  Hello! I'm <b>K Vishokbadri</b>
+</h1>
 
-<!--
-**Vishokbadri-K/Vishokbadri-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Exploring+Operating+Systems+and+Compilers;Learning+Data+Structures+and+Algorithms;Building+Projects+with+Java+C%2B%2B+and+Python;Passionate+about+System+Programming">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 👨‍💻 About Me
+
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+🎓 **B.Tech Computer Science Engineering**
+
+💡 Interests:
+- System Programming
+- Backend Development
+- Efficient Algorithms
+- Software Engineering
+
+🧠 Currently studying:
+- Data Structures & Algorithms
+- Operating Systems
+- Compiler Design
+
+⚙️ I enjoy understanding how systems work internally and writing structured, maintainable software.
+
+---
+
+# 🧰 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,linux,git,github,vscode"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 👾 Pac-Man Contribution Game
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg">
+</p>
+
+---
+
+# 🚀 Featured Work
+
+📦 **Java Programs Repository**  
+Collection of object-oriented programs and Java GUI applications.
+
+⚙️ **Operating Systems Programs**  
+Linux based implementations of IPC, shared memory, and scheduling algorithms.
+
+🧠 **Compiler Design Programs**  
+Lex/Yacc programs, FIRST/FOLLOW computation, and parsing techniques.
+
+📚 **Data Structure Implementations**  
+Core algorithms and data structure practice.
+
+---
+
+# 📚 Currently Learning
+
+📌 Advanced Data Structures  
+📌 Operating System Internals  
+📌 Compiler Construction  
+📌 Building scalable backend systems
+
+---
+
+<h3 align="center">
+
+⚡ Code • Build • Improve • Repeat ⚡
+
+</h3>
