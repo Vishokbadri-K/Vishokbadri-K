@@ -116,17 +116,20 @@
 
 # 🚀 Featured Work
 
-📦 **Java Programs Repository**  
-Collection of object-oriented programs and Java GUI applications.
+📦 **[Java Programs Repository](https://github.com/Vishokbadri-K/Java-Programs)**  
+  Collection of Java programs covering core concepts, data structures, and academic exercises.
 
-⚙️ **Operating Systems Programs**  
-Linux based implementations of IPC, shared memory, and scheduling algorithms.
+⚙️ **[Operating Systems Programs](https://github.com/Vishokbadri-K/Operating-Systems)**  
+  Implementation of OS concepts like IPC, shared memory, and process communication using Linux.
 
-🧠 **Compiler Design Programs**  
-Lex/Yacc programs, FIRST/FOLLOW computation, and parsing techniques.
+🧠 **[Compiler Engineering Programs](https://github.com/Vishokbadri-K/Compiler-Engineering)**  
+  Programs demonstrating lexical analysis and parsing using Lex and Yacc.
 
-📚 **Data Structure Implementations**  
-Core algorithms and data structure practice.
+💻 **[C++ Programs](https://github.com/Vishokbadri-K/C-Plus-Plus-Programs)**  
+  Academic and practice programs focusing on fundamental C++ concepts.
+
+📚 **[Data Structures Implementations](https://github.com/Vishokbadri-K/Data-Structures)**  
+  Implementations of key data structures and algorithms for learning and practice.
 
 ---
 
