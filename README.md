@@ -29,6 +29,22 @@
 
 ---
 
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Vishokbadri-K">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+</a>
+
+</p>
+
+---
+
 # 🧰 Tech Stack
 
 <p align="center">
