@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Exploring+Operating+Systems+and+Compilers;Learning+Data+Structures+and+Algorithms;Building+Projects+with+Java+C%2B%2B+and+Python">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Exploring+Operating+Systems+and+Compilers;Learning+Data+Structures+and+Algorithms;Building+Projects+with+Java+C%2B%2B+and+Python">
 </p>
 
 ---
@@ -45,7 +45,7 @@
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vishokbadri-K&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishokbadri-K&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishokbadri-K&layout=compact&theme=tokyonight&hide_border=false"/>
 
 </p>
 
