@@ -116,7 +116,7 @@
 
 # 🚀 Featured Work
 
-📦 **[Java Programs Repository](https://github.com/Vishokbadri-K/Java-Programs)**  
+📦 **[Java Programs Repository](https://github.com/Vishokbadri-K/Java)**  
   Collection of Java programs covering core concepts, data structures, and academic exercises.
 
 ⚙️ **[Operating Systems Programs](https://github.com/Vishokbadri-K/Operating-Systems)**  
@@ -125,10 +125,10 @@
 🧠 **[Compiler Engineering Programs](https://github.com/Vishokbadri-K/Compiler-Engineering)**  
   Programs demonstrating lexical analysis and parsing using Lex and Yacc.
 
-💻 **[C++ Programs](https://github.com/Vishokbadri-K/C-Plus-Plus-Programs)**  
+💻 **[C++ Programs](https://github.com/Vishokbadri-K/CPP)**  
   Academic and practice programs focusing on fundamental C++ concepts.
 
-📚 **[Data Structures Implementations](https://github.com/Vishokbadri-K/Data-Structures)**  
+📚 **[Data Structures Implementations](https://github.com/Vishokbadri-K/DSA)**  
   Implementations of key data structures and algorithms for learning and practice.
 
 ---
