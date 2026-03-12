@@ -2,7 +2,7 @@ name: Daily README Update
 
 on:
   schedule:
-    - cron: '0 */12 * * *'  # every 12 hours
+    - cron: '0 */12 * * *'
   workflow_dispatch:
 
 jobs:
@@ -13,7 +13,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        persist-credentials: true  # ensures git push uses token
+        persist-credentials: true  # important for push
 
     - name: Set up Git
       run: |
@@ -22,8 +22,7 @@ jobs:
 
     - name: Update README timestamp
       run: |
-        # Replace 'Last updated' line
-        sed -i "s/Last updated: .*/Last updated: $(date '+%d-%m-%Y %H:%M:%S')/" README.md
+        sed -i "s/Last updated: .*/Last updated: $(date '+%Y-%m-%d %H:%M:%S')/" README.md
 
     - name: Commit changes
       run: |
@@ -31,4 +30,6 @@ jobs:
         git diff --cached --quiet || git commit -m "chore: auto-update README timestamp [skip ci]"
 
     - name: Push changes
-      run: git push
+      run: |
+        git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/Vishokbadri-K/Vishokbadri-K.git
+        git push
