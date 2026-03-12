@@ -1,0 +1,32 @@
+name: Daily README Update
+
+# Run this workflow every day at 00:00 UTC (you can adjust the schedule)
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Git
+      run: |
+        git config user.name "Vishokbadri-K"
+        git config user.email "vishokbadri1913@gmail.com"
+
+    - name: Update README timestamp
+      run: |
+        # This will replace a line with a timestamp (optional)
+        # Make sure your README has: Last updated: YYYY-MM-DD HH:MM:SS
+        sed -i "s/Last updated: .*/Last updated: $(date '+%d-%m-%Y %H:%M:%S')/" README.md
+
+    - name: Commit changes
+      run: |
+        git add README.md
+        git commit -m "chore: auto-update README timestamp [skip ci]" || echo "No changes to commit"
+        git push
