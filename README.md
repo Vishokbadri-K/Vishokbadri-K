@@ -100,7 +100,7 @@
 # 📈 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishokbadri-K&theme=gruvbox&bg_color=282828&color=fbf1c7&line=ebdbb2&point=b8bb26&hide_border=false&radius=15"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishokbadri-K&theme=gruvbox&bg_color=0d1117&color=ffcc00&line=ffcc00&point=ffffff&hide_border=false&radius=15"/>
 </p>
 
 
