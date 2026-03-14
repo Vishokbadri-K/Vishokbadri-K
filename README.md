@@ -13,7 +13,7 @@
 
 🎓 **B.Tech Computer Science Engineering**
 
-💡 Interests:
+💡 *Interests:*
 - System Programming
 - Efficient Algorithms
 - Software Engineering
