@@ -5,11 +5,6 @@
 # 👨‍💻 About Me
 
 <div>
-  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698"
-       width="300px" align="right" alt="Coder GIF"/>
-</div>
-
-<div>
   <img align="right" height="260" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" alt="Coding workspace gif"/>
 </div>
 
