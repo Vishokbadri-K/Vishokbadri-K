@@ -20,7 +20,7 @@
 - Cyber Systems
 - Cyber Security
 
-🧠 Currently studying:
+🧠 *Currently studying:*
 - Full Stack Web Application Development
 - Software Engineering
 - Compiler Design
