@@ -22,7 +22,7 @@ jobs:
 
       - name: Update README timestamp
         run: |
-          sed -i "s/Last updated: .*/Last updated: $(date '+%Y-%m-%d %H:%M:%S')/" README.md
+          sed -i "s/Last updated: .*/Last updated: $(date '+%d-%m-%Y %H:%M:%S')/" README.md
 
       - name: Commit changes
         run: |
