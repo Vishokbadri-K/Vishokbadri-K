@@ -12,7 +12,6 @@
 
 💡 Interests:
 - System Programming
-- Backend Development
 - Efficient Algorithms
 - Software Engineering
 - Cyber Systems
