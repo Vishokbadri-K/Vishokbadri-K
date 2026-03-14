@@ -2,13 +2,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=K%20Vishokbadri&fontSize=40&fontAlignY=35&desc=Computer%20Science%20Engineer%20&descAlignY=55&animation=fadeIn" />
 </p>
 
+<img align="right" src="https://komarev.com/ghpvc/?username=Vishokbadri-K&color=yellow" />
+
 # 👨‍💻 About Me
 
 <div>
   <img align="right" height="260" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" alt="Coding workspace gif"/>
 </div>
 
-<img align="right" src="https://komarev.com/ghpvc/?username=Vishokbadri-K&color=yellow" />
 
 🎓 **B.Tech Computer Science Engineering**
 
