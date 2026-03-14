@@ -2,8 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=K%20Vishokbadri&fontSize=40&fontAlignY=35&desc=Computer%20Science%20Engineer%20&descAlignY=55&animation=fadeIn" />
 </p>
 
----
-
 # 👨‍💻 About Me
 
 <div>
