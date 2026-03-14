@@ -8,6 +8,8 @@
   <img align="right" height="260" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" alt="Coding workspace gif"/>
 </div>
 
+<img align="right" src="https://komarev.com/ghpvc/?username=Vishokbadri-K&color=yellow" />
+
 🎓 **B.Tech Computer Science Engineering**
 
 💡 Interests:
