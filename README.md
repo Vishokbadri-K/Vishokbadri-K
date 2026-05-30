@@ -81,9 +81,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats-vishokbadri-k-s-projects.vercel.app/api?username=Vishokbadri-K&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-vishokbadri-k-s-projects.vercel.app/api?username=Vishokbadri-K&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img height="170" src="https://github-readme-stats-vishokbadri-k-s-projects.vercel.app/api/top-langs/?username=Vishokbadri-K&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-vishokbadri-k-s-projects.vercel.app/api/top-langs/?username=Vishokbadri-K&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </p>
 
